@@ -1,7 +1,7 @@
 package com.amigoscode.fraud.web.controller;
 
 
-import com.amigoscode.fraud.web.response.FraudCheckResponse;
+import com.amigoscode.clients.fraud.FraudCheckResponse;
 import com.amigoscode.fraud.web.service.FraudCheckService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
